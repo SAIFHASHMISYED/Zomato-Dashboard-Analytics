@@ -87,7 +87,7 @@ The files in this repository are copied from the supplied files **without changi
 
 No data cleaning, transformation, recalculation, visual redesign, cropping, resizing, recoloring, or other modification was performed on the source Power BI file, Excel workbook, or dashboard screenshots for this repository package.
 
-For verification, SHA-256 checksums are provided in [`docs/FILE_CHECKSUMS.txt`](docs/FILE_CHECKSUMS.txt).
+For verification, SHA-256 checksums are provided in [`docs/FILE_CHECKSUMS.txt`](FILE_CHECKSUMS.md).
 ## Tools
 
 - Microsoft Power BI
