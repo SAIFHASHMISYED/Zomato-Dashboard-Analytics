@@ -1,0 +1,10 @@
+# File Checksums
+
+SHA-256 checksums for the supplied project assets copied into this repository.
+
+| File | SHA-256 | Size (bytes) |
+|---|---|---:|
+| `powerbi/zomato_project_itx(1).pbix` | `831279bfce8a8556377f7687febde37a82a122d6721eb25cc0e81fc7171ff5c2` | 1,327,543 |
+| `data/zomato_data_ITX(2).xlsx` | `bfc552cd8349219f56d1fb42b57d0efeddb491e17a13ddbf9f3db5e01d0a3c69` | 1,566,973 |
+| `screenshots/zomato_dashboard_page_1.png` | `062f5475165b7f16684ce51ad129d7239edd64d5a2b0b741e02b299e703ad7c5` | 172,142 |
+| `screenshots/zomato_dashboard_page_2.png` | `36ee3f73d68add76b44454cd6ac5316d71f6e03fa5edab897be3edd7791af56b` | 264,500 |
