@@ -81,14 +81,6 @@ The supplied workbook contains these sheets:
 
 The two PNG files in `screenshots/` are the dashboard screenshots supplied with the project.
 
-## Data integrity
-
-The files in this repository are copied from the supplied files **without changing their contents**.
-
-No data cleaning, transformation, recalculation, visual redesign, cropping, resizing, recoloring, or other modification was performed on the source Power BI file, Excel workbook, or dashboard screenshots for this repository package.
-
-For verification, SHA-256 checksums are provided in [`docs/FILE_CHECKSUMS.txt`](docs/FILE_CHECKSUMS.txt).
-
 ## Tools
 
 - Microsoft Power BI
