@@ -30,7 +30,7 @@ zomato-powerbi-github-repo/
 
 ### Page 1
 
-![Zomato Dashboard Page 1](screenshots/zomato_dashboard_page_1.png)
+![Zomato Dashboard Page 1](![Zomato Dashboard](./zomato_new1.png))
 
 ### Page 2
 
